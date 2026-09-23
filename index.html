@@ -37,5 +37,12 @@
 </head>
 <body>
   <div id="root"></div>
+
+  <!-- Cloudflare Web Analytics. Cookieless, so no consent banner is required.
+       The beacon patches the History API itself, so route changes in the SPA
+       are counted without any extra wiring. It sits in this shell because
+       build-static.mjs clones this file into all 12 route pages. -->
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js"
+    data-cf-beacon='{"token": "7259d617e1c04edaaf6f84b7ab99672a"}'></script>
 </body>
 </html>
