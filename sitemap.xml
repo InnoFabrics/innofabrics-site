@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://innofabrics.com/</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <priority>1.0</priority>
     <image:image><image:loc>https://innofabrics.com/img/agriculture-heat-reuse-growing-modules.avif</image:loc></image:image>
     <image:image><image:loc>https://innofabrics.com/img/air-cooling-limit-high-density-rack.avif</image:loc></image:image>
@@ -97,57 +97,57 @@
   </url>
   <url>
     <loc>https://innofabrics.com/data-centres</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://innofabrics.com/heat-reuse</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://innofabrics.com/heat-reuse/agriculture</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://innofabrics.com/heat-reuse/water</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://innofabrics.com/heat-reuse/district-heat</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://innofabrics.com/heat-reuse/process-heat</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://innofabrics.com/startups-equity</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://innofabrics.com/portfolio</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://innofabrics.com/how-we-work</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://innofabrics.com/about</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://innofabrics.com/contact</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
